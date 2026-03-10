@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <description>Slouží pro varování a detekci chyb přímo při programování. Code Issues je spíše na Code Review po naprogramování.</description>
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="098f6bcd-4621-3373-8ade-4e832627b4f6" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="2d9af82d-1bf8-39ac-a8fa-e4941180d782" enabled="true" level="ERROR" enabled_by_default="true" editorAttributes="ERRORS_ATTRIBUTES" />
+    <inspection_tool class="3263cc74-b7f4-39b3-98ad-3bd38c51a205" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="BooleanMethodIsAlwaysInverted" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="CssBrowserCompatibilityForProperties" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="JpaQlInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="RawUseOfParameterizedType" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="SpringJavaAutowiredFieldsWarningInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="StringConcatenationInLoops" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="XmlPathReference" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+  </profile>
+</component>
